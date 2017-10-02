@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Name"/>
+
+    <TextView
+        android:id="@+id/initialValueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/initialValue"
+        android:layout_alignBottom="@+id/initialValue"
+        android:layout_alignStart="@+id/nameTextView"
+        android:text="Initial Value"/>
+
+    <TextView
+        android:id="@+id/currentValueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/currentValue"
+        android:layout_alignBottom="@+id/currentValue"
+        android:layout_alignStart="@+id/initialValueTextView"
+        android:text="Current Value"/>
+
+    <TextView
+        android:id="@+id/commentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/comment"
+        android:layout_alignBottom="@+id/comment"
+        android:layout_alignStart="@+id/currentValueTextView"
+        android:text="Comments"/>
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/nameTextView"
+        android:layout_alignBottom="@+id/nameTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/initialValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/name"
+        android:layout_below="@+id/name"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:inputType="number"
+        android:digits="0123456789"/>
+
+    <EditText
+        android:id="@+id/currentValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/initialValue"
+        android:layout_below="@+id/initialValue"
+        android:layout_marginTop="16dp"
+        android:digits="0123456789"
+        android:ems="10"
+        android:inputType="number"
+        android:text="(disabled)"
+        android:textStyle="italic"
+        android:focusable="false"
+        />
+
+    <EditText
+        android:id="@+id/comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/currentValue"
+        android:layout_below="@+id/currentValue"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:inputType="text"/>
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Save"/>
+
+
+</RelativeLayout>

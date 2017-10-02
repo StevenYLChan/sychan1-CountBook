@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\166d10724115ab2b4a5a3ea24264f587b90c458f\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "Z:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Steven C\\.android\\build-cache\\166d10724115ab2b4a5a3ea24264f587b90c458f\\output\\res\\color\\design_error.xml"
+    }
+]

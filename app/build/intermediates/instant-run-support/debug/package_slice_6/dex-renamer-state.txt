@@ -1,0 +1,4 @@
+#Mon Oct 02 04:41:43 MDT 2017
+base.0=Z\:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=Z\:\\Steven C\\Dropbox\\U of A\\CMPUT 301\\Assignment_1\\sychan1-CountBook\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

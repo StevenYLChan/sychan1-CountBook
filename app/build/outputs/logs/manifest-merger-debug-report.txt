@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+application
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven C\.android\build-cache\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\c8e4dbdca978b56750fdce2a34e4edb507021686\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\965f18a8aa1c3da56f128afa2d55b34e15d658bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Steven C\.android\build-cache\6d86115ad86d05639a1a8c4e2d11f3d915430a7c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven C\.android\build-cache\74169c1b28add09b18e513bde27f387833229ea2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Steven C\.android\build-cache\b6a98fc854dc2c8b40592d6a8ee4aca05b6ad359\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Steven C\.android\build-cache\087aec2e44b16e814a5f6fbca41f43163bfe8721\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Steven C\.android\build-cache\ea6f86a4c5de0a752ec1ae2181ee843bf196a230\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Steven C\.android\build-cache\fd5db3e8fa7a703330d4a85163baefc0650d4210\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Steven C\.android\build-cache\5ec6b8007282cdacf328ae7acb4b2843bd980e10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steven C\.android\build-cache\86917bc0e72dccfa2164396332a20cc4a1c2e178\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:10:9-40
+activity#cmput301.sychan1_countbook.MainActivity
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:label
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:19:27-74
+activity#cmput301.sychan1_countbook.ActivityAddCounter
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:24:13-40
+	android:parentActivityName
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:23:13-47
+activity#cmput301.sychan1_countbook.DescriptionActivity
+ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:27:9-29:20
+	android:label
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:28:19-54
+	android:name
+		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:27:19-54
+uses-sdk
+INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven C\.android\build-cache\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\c8e4dbdca978b56750fdce2a34e4edb507021686\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\965f18a8aa1c3da56f128afa2d55b34e15d658bc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Steven C\.android\build-cache\912e38e9d3a283dc6ecb903f56909758b570a623\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Steven C\.android\build-cache\6d86115ad86d05639a1a8c4e2d11f3d915430a7c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven C\.android\build-cache\74169c1b28add09b18e513bde27f387833229ea2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Steven C\.android\build-cache\b6a98fc854dc2c8b40592d6a8ee4aca05b6ad359\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Steven C\.android\build-cache\087aec2e44b16e814a5f6fbca41f43163bfe8721\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Steven C\.android\build-cache\ea6f86a4c5de0a752ec1ae2181ee843bf196a230\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Steven C\.android\build-cache\fd5db3e8fa7a703330d4a85163baefc0650d4210\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Steven C\.android\build-cache\5ec6b8007282cdacf328ae7acb4b2843bd980e10\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steven C\.android\build-cache\86917bc0e72dccfa2164396332a20cc4a1c2e178\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven C\.android\build-cache\6eb7dcdc1ddc1abfef540903272710bdf1e8b6e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\c8e4dbdca978b56750fdce2a34e4edb507021686\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Steven C\.android\build-cache\965f18a8aa1c3da56f128afa2d55b34e15d658bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Steven C\.android\build-cache\912e38e9d3a283dc6ecb903f56909758b570a623\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Steven C\.android\build-cache\6d86115ad86d05639a1a8c4e2d11f3d915430a7c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven C\.android\build-cache\74169c1b28add09b18e513bde27f387833229ea2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Steven C\.android\build-cache\b6a98fc854dc2c8b40592d6a8ee4aca05b6ad359\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Steven C\.android\build-cache\087aec2e44b16e814a5f6fbca41f43163bfe8721\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Steven C\.android\build-cache\ea6f86a4c5de0a752ec1ae2181ee843bf196a230\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Steven C\.android\build-cache\fd5db3e8fa7a703330d4a85163baefc0650d4210\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Steven C\.android\build-cache\5ec6b8007282cdacf328ae7acb4b2843bd980e10\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Steven C\.android\build-cache\166d10724115ab2b4a5a3ea24264f587b90c458f\output\AndroidManifest.xml:26:9-47
