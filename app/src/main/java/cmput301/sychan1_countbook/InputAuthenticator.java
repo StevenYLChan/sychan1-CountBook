@@ -8,6 +8,9 @@ import android.widget.EditText;
 
 public class InputAuthenticator {
 
+    /*
+     * Checks whether the EditText fields are empty/blank/spaces
+     */
     public boolean isEmpty(EditText editText) {
         if (editText.getText().toString().trim().length() > 0) {
             return false;
@@ -15,6 +18,9 @@ public class InputAuthenticator {
         return true;
     }
 
+    /*
+     * Checks whether the EditText fields are less than zero
+     */
     public boolean isLessThanZero(EditText editText) {
         if (Integer.parseInt(editText.getText().toString()) >= 0) {
             return false;

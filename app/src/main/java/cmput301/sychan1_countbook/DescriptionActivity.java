@@ -30,6 +30,7 @@ public class DescriptionActivity extends MainActivity {
 
         int position = this.getIntent().getIntExtra("position", 0);
 
+        // Get all the values and display it
         name.setText(counterList.get(position).getName());
         comment.setText(counterList.get(position).getComment());
         initialValue.setText(String.valueOf(counterList.get(position).getInitialValue()));
@@ -52,6 +53,7 @@ public class DescriptionActivity extends MainActivity {
 
         inputAuthenticator = new InputAuthenticator();
 
+        // Subtract button section that parses the current field value and updates it
         Button subtractButton = (Button) findViewById(R.id.subtractButton);
 
         subtractButton.setOnClickListener(new View.OnClickListener() {
@@ -62,6 +64,7 @@ public class DescriptionActivity extends MainActivity {
             }
         });
 
+        // Add button section that parses the current field value and updates it
         Button addButton = (Button) findViewById(R.id.addButton);
 
         addButton.setOnClickListener(new View.OnClickListener() {
@@ -72,6 +75,7 @@ public class DescriptionActivity extends MainActivity {
             }
         });
 
+        // Save button section that verifies input then saves and updates
         Button saveButton = (Button) findViewById(R.id.saveButton);
 
         saveButton.setOnClickListener(new View.OnClickListener() {
@@ -101,6 +105,7 @@ public class DescriptionActivity extends MainActivity {
             }
         });
 
+        // Delete button section that removes a counter
         Button deleteButton = (Button) findViewById(R.id.deleteButton);
 
         deleteButton.setOnClickListener(new View.OnClickListener() {
@@ -114,6 +119,7 @@ public class DescriptionActivity extends MainActivity {
             }
         });
 
+        // Reset button section that sets the current value to the initial value;
         Button resetButton = (Button) findViewById(R.id.resetButton);
 
         resetButton.setOnClickListener(new View.OnClickListener() {

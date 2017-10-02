@@ -29,7 +29,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="cmput301.sychan1_countbook.ActivityAddCounter"
+            android:name="cmput301.sychan1_countbook.AddCounterActivity"
             android:label="Add Counter"
             android:parentActivityName="cmput301.sychan1_countbook.MainActivity" >
         </activity>

@@ -55,7 +55,7 @@ category#android.intent.category.LAUNCHER
 ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:19:17-76
 	android:name
 		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:19:27-74
-activity#cmput301.sychan1_countbook.ActivityAddCounter
+activity#cmput301.sychan1_countbook.AddCounterActivity
 ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:22:9-26:20
 	android:label
 		ADDED from Z:\Steven C\Dropbox\U of A\CMPUT 301\Assignment_1\sychan1-CountBook\app\src\main\AndroidManifest.xml:24:13-40

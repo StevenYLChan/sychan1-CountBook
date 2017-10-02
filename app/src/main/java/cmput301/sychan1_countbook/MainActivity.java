@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Floating button listener that starts the AddCounterActivity
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.floatingAddCounterButton);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -51,8 +52,7 @@ public class MainActivity extends AppCompatActivity {
         counterListView = (ListView) findViewById(R.id.counterListView);
         numberOfCountersTextView = (TextView) findViewById(R.id.numberOfCountersTextView);
 
-        registerForContextMenu(counterListView);
-
+        // Click listener to view the specifics of a particular counter
         counterListView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id){
@@ -76,6 +76,8 @@ public class MainActivity extends AppCompatActivity {
         counterAdapter = new ArrayAdapter<Counter>(this,
                 R.layout.list_item, counterList);
         counterListView.setAdapter(counterAdapter);
+
+        // Displays the total number of counters
         numberOfCountersTextView.setText("Total counters: " + String.valueOf(counterListView.getAdapter().getCount()));
 
     }

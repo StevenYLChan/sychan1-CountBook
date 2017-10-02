@@ -62,6 +62,8 @@ public class Counter {
     public void setDate(){
         this.date = new Date();
     }
+
+    // For display purposes
     @Override
     public String toString(){
         return date.toString() +
